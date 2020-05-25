@@ -1,4 +1,8 @@
-# My Universal React Project
+# React Native Carousel example
+
+## iOS video
+
+![react-native-carousel example](https://gph.is/g/4oRGnXY)
 
 <p>
   <!-- iOS -->

@@ -2,7 +2,7 @@
 
 ## iOS video
 
-![react-native-carousel example](https://gph.is/g/4oRGnXY)
+![react-native-carousel example](https://media.giphy.com/media/SSQyGfpq3HLls8kNRs/giphy.gif)
 
 <p>
   <!-- iOS -->
